@@ -1,0 +1,804 @@
+@media (max-width: 1130px) {
+    .dresscode-woman, .dresscode-man {
+        width: 400px;
+        height: 300px;
+    }
+    .dresscode-info-block {
+        width: 60px;
+        height: 60px;
+    }
+
+}
+
+@media (max-width: 1024px) {
+    .container {
+        max-width: 800px;
+
+    }
+
+}
+
+@media (max-width: 768px) {
+    .container {
+        max-width: 600px;
+
+    }
+    .invite-title {
+        font-size: 75px;
+    }
+
+    .main-info {
+        font-size: 40px;
+    }
+    .main-info .date {
+        margin-bottom: 20px;
+    }
+
+    .no-fonts {
+        text-align: center;
+      
+    }
+    .dresscode-woman, .dresscode-man {
+        width: 300px;
+        height: 300px;
+    }
+    .dresscode-info-block {
+        width: 50px;
+        height: 50px;
+    }
+    .location-title, .program-title, .dresscode-title, .wishes-title, .organizer-title, .presence-title {
+        font-size: 60px;
+    }
+    .dear, .location-title, .program-title, .dresscode-title, .wishes-title, .organizer-title, .presence-title {
+        margin-bottom: 20px;
+    }
+    .main {
+        padding: 50px 0 50px 0;
+    }
+
+    .location, .program, .dresscode, .wishes, .presence {
+        padding: 50px 0 50px 0
+    }
+    .location-info {
+        font-size: 30px;
+    }
+    .location-address a {
+        font-size: 30px;
+    }
+
+    .event {
+        font-size: 30px;
+    }
+    .dresscode-info {
+        font-size: 30px;
+    }
+
+    .wishes-text {
+        font-size: 30px;
+    }
+    .wishes {
+        padding-top: 40px;
+        padding-bottom: 50px;
+    }
+
+    .timeline {
+        flex-direction: column;
+        justify-content: center;
+        width: 100%;
+        gap: 50px;
+        margin-bottom: 50px;
+        margin-top: 30px;
+    }
+    .program .container {
+        max-width: 600px;
+    }
+    .presence-text {
+        font-size: 30px;
+    }
+    .des {
+        font-size: 16px;
+    }
+    .timout-title {
+        font-size: 60px;
+    }
+
+
+    .timout {
+        padding: 20px 0;
+    }
+
+
+
+}
+
+@media (max-width: 625px) {
+    .container {
+        max-width: 560px;
+    }
+    .invite {
+        padding: 0;
+    }
+
+    .name-people {
+        font-size: 133px;
+    }
+
+    .program .container {
+        max-width: 560px;
+    }
+
+    .main-info {
+        font-size: 30px;
+    }
+    .main-info .text-right .text-right-two {
+         font-size: 19px;
+         margin-top: -7px;
+     }
+
+    .no-fonts {
+        font-size: 128px;
+    }
+    .dresscode-people {
+        flex-direction: column;
+    }
+    .dresscode-woman, .dresscode-man {
+        width: 450px;
+        height: 300px;
+    }
+
+    .save {
+        font-size: 30px;
+        text-align: center;
+    }
+    .main-date {
+        margin-top: 50px;
+    }
+    .dresscode-info {
+        font-size: 30px;
+    }
+    .dresscode-info-block {
+        height: 45px;
+    }
+    .wishes-text {
+        font-size: 30px;
+    }
+    .main .text, .organizer-text {
+        padding-bottom: 10px;
+    }
+    .presence-text {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+
+    .location .banquet, .presence .presence-text {
+        padding-bottom: 20px;
+    }
+
+    .wed {
+        font-size: 40px;
+    }
+    .music-text {
+        text-align: left;
+
+    }
+    .timeline {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    }
+
+
+@media (max-width: 575px) {
+    .container {
+        max-width: 480px;
+    }
+    .program .container {
+        max-width: 480px;
+    }
+    .invite-title {
+        font-size: 64px;
+    }
+    .invite-name {
+        font-size: 80px;
+    }
+    .location-info {
+        font-size: 29px;
+    }
+
+    .location-title, .program-title, .dresscode-title, .wishes-title, .organizer-title, .presence-title {
+        font-size: 50px;
+    }
+
+    .presence-text {
+        font-size: 20px;
+        margin-bottom: 0;
+    }
+
+    .image-three .polaroid-three {
+        width: 530px;
+    }
+    .dear {
+        font-size: 25px;
+    }
+    .event .text {
+        font-size: 25px;
+    }
+    .no-fonts, .save {
+        font-size: 28px;
+
+    }
+    .timout-title {
+        font-size: 50px;
+    }
+
+
+
+}
+@media (max-width: 534px) {
+    .container {
+        max-width: 450px;
+    }
+    .program .container {
+        max-width: 450px;
+    }
+    .first-page {
+        padding: 50px 0;
+    }
+    .invite-title {
+        font-size: 60px;
+    }
+    .invite-name {
+        font-size: 75px;
+    }
+    .main {
+        padding: 50px 0 0 0;
+    }
+
+
+     .program {
+        padding: 50px 0 0 0;
+    }
+    .wishes {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .main-info {
+        font-size: 30px;
+    }
+    .wed {
+        font-size: 57px;
+    }
+
+    .location-info {
+        font-size: 24px;
+    }
+    .first {
+        overflow: hidden;
+    }
+    .image-three .polaroid-three {
+        position: relative;
+        width: 450px;
+    }
+    .foto-three .img-three {
+        height: 245px;
+        clip-path: inset(0px 15px 0px 15px);
+    }
+    .plus {
+        right: 50px;
+    }
+    .wishes-text {
+        font-size: 24px;
+    }
+     .save, .main .text {
+        font-size: 24px;
+    }
+    .location-address a {
+        font-size: 24px;
+    }
+    .first {
+        flex-direction: column;
+        gap: 0;
+    }
+    .first svg {
+        width: 40px;
+        height: 40px;
+    }
+    .wishes {
+        padding-top: 50px;
+    }
+    .wishes-title {
+        font-size: 45px;
+    }
+    .first .time {
+        font-weight: bold;
+        order: 2;
+    }
+    .event {
+        font-size: 24px;
+    }
+
+    .wedding-form {
+        font-size: 20px;
+    }
+
+    .with-love-text {
+        font-size: 28px;
+    }
+
+    .location .container {
+        max-width: none;
+    }
+    .event.line {
+        height: 55px;
+    }
+
+
+
+}
+@media (max-width: 518px) {
+    .dresscode-woman, .dresscode-man {
+        width: 380px;
+        height: 300px;
+    }
+    .wishes-text {
+        grid-template-columns: 1fr; /* Один элемент в строке */
+    }
+    .vino {
+        grid-column: span 1; /* Чтобы вино не растягивалось на две колонки */
+    }
+}
+@media (max-width: 480px) {
+    .invite-date {
+        font-size: 25px;
+
+    }
+
+    .invite-photo, .location-image {
+        width: 350px;
+        height: 350px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .invite-photo img, .location-image img{
+        object-fit: cover;
+        object-position: center;
+    }
+    .location {
+        overflow: hidden;
+    }
+}
+@media (max-width: 470px) {
+    .name {
+        text-align: center;
+    }
+    .container {
+        max-width: 400px;
+    }
+    .timout-title, .wishes-title {
+        font-size: 40px;
+    }
+    .program-title {
+        font-size: 46px;
+    }
+    .program .container {
+        max-width: 400px;
+    }
+    .invite-title {
+        font-size: 50px;
+    }
+    .invite-name {
+        font-size: 65px;
+    }
+    .location-info {
+        font-size: 20px;
+    }
+    .location-address a {
+        font-size: 20px;
+    }
+    .main-date {
+        font-size: 35px;
+    }
+    .main-date-bg {
+        font-size: 100px;
+    }
+
+    .wishes-text {
+        font-size: 20px;
+    }
+
+
+
+    .dresscode-info-blocks, .dresscode-info-blocks-two {
+        gap: 6px
+    }
+    .image-three .polaroid-three {
+        width: 400px;
+    }
+    .foto-three .img-three {
+        height: 218px;
+    }
+    .with-love-text {
+        font-size: 25px;
+    }
+
+
+
+
+
+
+}
+@media (max-width: 447px) {
+
+    .container {
+        max-width: 390px;
+    }
+    .program .container {
+        max-width: 390px;
+    }
+
+    .invite-date {
+        font-size: 25px;
+        gap: 20px;
+    }
+
+
+    .invite-calendar {
+        border-right:  1px solid #8c673f;
+        border-left: 1px solid #8c673f;
+        padding: 0 15px ;
+        text-align: center;
+    }
+    .invite-time {
+        padding: 10px 12px;
+        border-top: 1px solid #8c673f;
+        border-bottom: 1px solid #8c673f;
+        line-height: 100%;
+    }
+    .number {
+        font-size: 45px;
+    }
+    .year {
+        font-size: 50px;
+    }
+    .invite-name {
+        font-size: 65px;
+    }
+    .first-page {
+        padding: 30px 0;
+    }
+    .main {
+        padding: 30px 0 0 0;
+    }
+    .location, .program, .dresscode, .wishes, .presence {
+        padding: 30px 0;
+    }
+    .with-love-text {
+        font-size: 24px;
+    }
+    .dear {
+        font-size: 23px;
+    }
+    .program-title {
+        font-size: 45px;
+    }
+    .timout-title, .wishes-title {
+        font-size: 39px;
+    }
+
+}
+@media (max-width: 430px) {
+
+    .container {
+        max-width: 350px;
+    }
+    .program .container {
+        max-width: 350px;
+    }
+    .program-title {
+        font-size: 41px;
+    }
+    .with-love-text {
+        font-size: 21px;
+    }
+
+    .dear {
+        font-size: 19px;
+    }
+    .dresscode-woman, .dresscode-man {
+        width: 300px;
+        height: 300px;
+    }
+    .timout-title {
+        font-size: 36px;
+    }
+    .timout-title, .wishes-title {
+        font-size: 35px;
+    }
+
+    .music-text {
+        font-size: 26px;
+    }
+    .invite-title {
+        font-size: 46px;
+    }
+    .invite-name {
+        font-size: 58px;
+    }
+    .with-love-image {
+        width: 300px;
+        height: 300px;
+    }
+    .location .container {
+        max-width: none !important;
+    }
+    .presence-title {
+        font-size: 45px;
+        }
+
+
+}
+
+@media (max-width: 406px) {
+    .invite-date {
+        font-size: 20px;
+        gap: 20px;
+    }
+    .location-address {
+        font-size: 24px;
+    }
+    .with-love-text {
+        font-size: 21px;
+    }
+    .invite-calendar {
+        border-right:  1px solid #8c673f;
+        border-left: 1px solid #8c673f;
+        padding: 0 15px ;
+        text-align: center;
+    }
+    .invite-time {
+        padding: 7px 10px;
+        border-top: 1px solid #8c673f;
+        border-bottom: 1px solid #8c673f;
+        line-height: 100%;
+    }
+    .invite-day {
+        padding: 5px 0 9px 0;
+    }
+    .number {
+        font-size: 40px;
+    }
+    .year {
+        font-size: 45px;
+    }
+
+
+    .wishes-text {
+        font-size: 20px;
+    }
+
+    .invite-name {
+        font-size: 58px;
+    }
+
+}
+
+
+
+@media (max-width: 389px) {
+    .container {
+        max-width: 300px;
+    }
+    .program .container {
+        max-width: 300px;
+    }
+    .with-love-text {
+        font-size: 18px;
+    }
+    .music-text {
+        font-size: 21px;
+    }
+    .invite-title {
+        font-size: 40px;
+    }
+    .invite-name {
+        font-size: 50px;
+    }
+    .dear {
+        font-size: 16px;
+    }
+
+    .location-address a {
+        font-size: 20px;
+    }
+
+
+    .location-title, .program-title, .dresscode-title, .wishes-title, .organizer-title, .presence-title {
+        font-size: 46px;
+    }
+
+    .timout-title {
+        font-size: 32px;
+    }
+    .wishes-title {
+        font-size: 30px;
+    }
+    .location-title, .program-title, .dresscode-title, .wishes-title, .organizer-title, .presence-title {
+        font-size: 30px;
+    }
+    .event {
+        font-size: 20px;
+    }
+    .event .text {
+        font-size: 18px;
+    }
+    .timeline {
+        gap: 30px;
+    }
+    .dresscode-info {
+        font-size: 19px;
+    }
+    .man, .woman {
+        font-size: 30px;
+    }
+    .woman-text, .man-text {
+        font-size: 21px;
+    }
+
+
+
+
+}
+
+@media (max-width: 375px) {
+
+    .main-date {
+        font-size: 30px;
+    }
+    .main-date-bg {
+        font-size: 90px;
+    }
+    .wishes-text {
+        font-size: 20px;
+    }
+    .location .banquet, .presence .presence-text {
+        padding-bottom: 20px;
+    }
+    .no-fonts, .save, .dresscode-info {
+        font-size: 20px;
+    }
+    .location-info {
+        font-size: 20px;
+    }
+    .location-address a {
+        font-size: 20px;
+    }
+    .event {
+        font-size: 20px;
+    }
+    .location-title, .program-title, .dresscode-title, .wishes-title, .organizer-title, .presence-title {
+        font-size: 38px;
+    }
+    .wishes-title {
+        font-size: 30px;
+    }
+    .timout-title {
+        font-size: 30px;
+    }
+
+    .program-title {
+        font-size: 35px;
+    }
+
+
+
+}
+@media (max-width: 367px) {
+
+
+    .main-date-bg {
+        font-size: 80px;
+    }
+    .wishes-text {
+        font-size: 20px;
+    }
+
+
+}
+@media (max-width: 358px) {
+    .invite-date {
+        font-size: 20px;
+        gap: 20px;
+    }
+    .with-love-text {
+        font-size: 18px;
+    }
+    .dresscode-woman, .dresscode-man {
+        width: 280px;
+        height: 280px;
+    }
+    .invite-calendar {
+        border-right:  1px solid #8c673f;
+        border-left: 1px solid #8c673f;
+        padding: 0 15px ;
+        text-align: center;
+    }
+    .invite-time {
+        padding: 7px 10px;
+        border-top: 1px solid #8c673f;
+        border-bottom: 1px solid #8c673f;
+        line-height: 100%;
+    }
+    .invite-day {
+        padding: 5px 0 9px 0;
+    }
+    .number {
+        font-size: 30px;
+    }
+    .year {
+        font-size: 35px;
+    }
+
+
+
+}
+@media (max-width: 330px) {
+    .container {
+        max-width: 270px;
+    }
+    .program .container {
+        max-width: 270px;
+    }
+    .invite-photo, .location-image {
+        width: 300px;
+        height: 300px;
+    }
+    .with-love-text {
+        font-size: 16px;
+    }
+    .music-text {
+        font-size: 17px;
+    }
+    .invite-title {
+        font-size: 36px;
+    }
+    .invite-name {
+        font-size: 45px;
+    }
+    .location-title, .program-title, .dresscode-title, .wishes-title, .organizer-title, .presence-title {
+        font-size: 35px;
+    }
+    .wishes-title {
+        font-size: 27px;
+
+    }
+    .name-people {
+        font-size: 85px;
+    }
+    .event {
+        font-size: 18px;
+    }
+    .invite-text {
+        font-size: 27px;
+    }
+    .dear {
+        font-size: 15px;
+    }
+    .program-title {
+        font-size: 31px;
+    }
+
+    .location-info {
+        font-size: 15px;
+    }
+
+    .timout-title {
+        font-size: 26px;
+    }
+
+    .presence-text {
+        font-size: 13px;
+    }
+}
