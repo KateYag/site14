@@ -503,7 +503,9 @@
     .with-love-text {
         font-size: 21px;
     }
-
+    .no-fonts {
+        font-size: 99px;
+    }
     .dear {
         font-size: 19px;
     }
