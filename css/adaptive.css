@@ -195,6 +195,9 @@
     .program .container {
         max-width: 480px;
     }
+    .no-fonts {
+        font-size: 116px;
+    }
     .invite-title {
         font-size: 64px;
     }
@@ -223,10 +226,7 @@
     .event .text {
         font-size: 25px;
     }
-    .no-fonts, .save {
-        font-size: 28px;
 
-    }
     .timout-title {
         font-size: 50px;
     }
@@ -666,7 +666,7 @@
     .location .banquet, .presence .presence-text {
         padding-bottom: 20px;
     }
-    .no-fonts, .save, .dresscode-info {
+    .dresscode-info {
         font-size: 20px;
     }
     .location-info {

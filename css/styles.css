@@ -244,6 +244,9 @@ body {
         gap: 10px;
         font-weight: bold;
     }
+    .event-info-one .name {
+        white-space: nowrap;
+    }
     .event-image svg{
         width: 100px;
         height: 100px;
